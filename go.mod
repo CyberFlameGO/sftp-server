@@ -8,6 +8,5 @@ require (
 	github.com/pkg/sftp v1.11.0
 	github.com/stretchr/testify v1.6.1 // indirect
 	go.uber.org/zap v1.15.0
-	golang.org/x/crypto v0.0.0-20200728195943-123391ffb6de
-	golang.org/x/sys v0.0.0-20200806125547-5acd03effb82 // indirect
+	golang.org/x/crypto v0.17.0
 )
